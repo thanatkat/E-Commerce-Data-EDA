@@ -21,8 +21,8 @@ Typically e-commerce datasets are proprietary and consequently hard to find amon
   - Calculate the total revenue by day: Identifying sales patterns
   - Calculate the order count by week: Understanding the volume of sales over time.
  - Visualization
-  - Plot the revenue by day
-  - Plot the order count by week
+    - Plot the revenue by day
+    - Plot the order count by week
 
 **This dashboard displays:**
 - sales metrics
